@@ -10,4 +10,4 @@ Numpy will be used for numerical computations and data manipulation, matplotlib 
 
 Once the model is trained, it will be used to make predictions about the prices of houses, which can be useful for real estate agents, homebuyers, and sellers. The model will be evaluated using metrics such as mean squared error and mean absolute error to ensure that it is accurate and reliable.
 
-Overall, this project aims to build a machine learning model to predict house prices in Python using Numpy, matplotlib, and pandas, providing valuable insights into the housing market and helping individuals make informed decisions about buying and selling properties.
+
